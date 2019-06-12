@@ -8,5 +8,5 @@ elif ((b>a)&(b>c)):
   e=b
   print(e)
 else:
-  f=c
-  print(f)
+  g=c
+  print(g)

@@ -1,6 +1,6 @@
-q=input()
-count=0
-for i in q:
+Z=input()
+c=0
+for i in Z:
   if (i.isdigit()):
-    count+=1
-print (count)
+    c+=1
+print (c)

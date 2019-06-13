@@ -1,8 +1,8 @@
 q=input()
-count=0
+c=0
 for i in q:
   if (i.isalnum() | (i==' ')):
-    count+=0
+    c+=0
   else:
-    count+=1
-    print(count)
+    c+=1
+    print(c)

@@ -1,0 +1,2 @@
+JI=input()
+print(JI)

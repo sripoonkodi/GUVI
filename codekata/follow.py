@@ -1,10 +1,9 @@
-m=[int(x) for x in input().split()]
-n=[int(x) for x in input().split()]
-R=0
-for i in n:
-  if (i==m[1]):
-    R=1
-if (R==1):
+L,C=map(int,input().split())
+A=[]
+for x in input().split():
+  A.append(int(x))
+d=A.count(C)
+if(d>0):
   print("yes")
 else:
   print("no")

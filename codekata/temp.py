@@ -1,2 +1,2 @@
-s=int(input())
-print(s+273)
+sss=int(input())
+print(sss+273)
